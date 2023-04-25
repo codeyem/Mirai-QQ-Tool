@@ -6,3 +6,6 @@ mirai:
   config:
     workSpace: D:\\soft\\Mirai
     protocol: MACOS
+  chat-gpt:
+
+
